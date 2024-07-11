@@ -9,8 +9,9 @@
 
 ## About Portal
 
-![Screenshot 2024-07-11 14:29:14](https://github.com/Tahagithub1/Portal-university/assets/153533715/4ae8ec21-d6fc-4b2d-b34a-ae361b496d62)
-
-
 ![Screenshot 2024-07-11 14:28:49](https://github.com/Tahagithub1/Portal-university/assets/153533715/84def294-e40c-4bff-be6b-625852b31961)
+
+
+
+![Screenshot 2024-07-11 14:29:14](https://github.com/Tahagithub1/Portal-university/assets/153533715/4ae8ec21-d6fc-4b2d-b34a-ae361b496d62)
 
